@@ -1,6 +1,4 @@
-# Anima App exported react code
-This package was generated automatically with [Anima App](https://www.animaapp.com).
-## Instructions
+ Instructions
 ```
 cd package_code
 npm install
